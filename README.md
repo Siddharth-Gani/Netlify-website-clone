@@ -5,7 +5,7 @@ Netlify website Clone developed usig HTML and CSS, but added little bit of Java 
 <strong>steps to understand the project<strong>:
 <br>
 <br>
-if u are using a visual studio code follow steps:
+<small>if u are using a visual studio code follow steps<small>:
 <br>
 <br>
 1.Create the HTML file in your VS Code and copy the HTML code from repository.
