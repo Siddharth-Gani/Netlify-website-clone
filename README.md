@@ -24,3 +24,8 @@ if u are using a visual studio code follow steps:
 <br>
 <br>
 5.If u want to change the file name, then u have to connect that file externally. 
+<br>
+<br>
+6.If u want to see javascript functionally, click on the signup button, in navigation bar the color of the content will change and also background color of the body will change.
+<br>
+<br>
