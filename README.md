@@ -26,13 +26,15 @@ if u are using a visual studio code follow steps:
 5.If u want to change the file name, then u have to connect that file externally. 
 <br>
 <br>
-     **/
 <br>
-<br>
+
 I have added only 2 javascript functionality.
 <br>
 <br>
-  /**
 1.If u want to see javascript functionally, click on the signup button, in navigation bar the color of the content will change and also background color of the body will change.
 <br>
 <br>
+2. If u want to see another javascript functionality, click on the explore platform button, it will re-direct to my One Plus web page.
+<br>
+<br>
+**/
