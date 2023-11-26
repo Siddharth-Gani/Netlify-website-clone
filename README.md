@@ -2,7 +2,7 @@
 Netlify website Clone developed usig HTML and CSS, but added little bit of Java Script.
 <br>
 <br>
-<strong>steps to understand the project:<strong>
+<strong>steps to understand the project<strong>:
 <br>
 <br>
 if u are using a visual studio code follow steps:
