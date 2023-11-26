@@ -26,6 +26,9 @@ if u are using a visual studio code follow steps:
 5.If u want to change the file name, then u have to connect that file externally. 
 <br>
 <br>
+6.Run the HTML file.
+<br>
+<br>
 <br>
 
 I have added only 2 javascript functionality.
